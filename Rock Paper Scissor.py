@@ -1,35 +1,3 @@
-'''
-TODO:
--blank canvass first  
--restart the game
--scoring 
-
-
-DONE:
--make a computer_bot
--display the computer choice
--take player choice
--shoWing player move
--logic of the game
--show who win
-
-
-
-
-BUG:
--let the player choose first before 
-displaying computer choice and conclusion
-    
-SOLVED BUG:
--player_choice is considered as str not surface
--center text
-
-
-
-
-
-'''
-
 import pygame
 import os
 import random
